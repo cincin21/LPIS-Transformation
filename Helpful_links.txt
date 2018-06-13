@@ -1,0 +1,18 @@
+Helpful links:
+
+https://stackoverflow.com/questions/41898561/pandas-transform-a-dbf-table-into-a-dataframe
+
+http://geopandas.org/data_structures.html
+
+https://www.kaggle.com/jihyeseo/dbf-file-into-pandas-dataframe
+
+https://automating-gis-processes.github.io/2016/index.html
+
+https://automating-gis-processes.github.io/2016/Lesson2-geopandas-basics.html
+
+Loops:
+
+https://gis.stackexchange.com/questions/60730/create-text-files-from-a-loop-with-python
+
+https://stackoverflow.com/questions/47434498/python-add-numbers-in-front-of-lines-and-export-it-to-a-new-file
+

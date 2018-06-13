@@ -1,0 +1,1 @@
+Because dataset - Land-Parcel Identification System - avaliable from GUGiK open source (http://www.geoportal.gov.pl/web/guest/DOCHK) is a great material for spatial analysis this repo transforms the data's complex features with additional adding of cadastral district names to make it easy and more useful for every spatial user.
